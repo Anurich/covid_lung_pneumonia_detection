@@ -12,10 +12,10 @@
 <p>
 I didn't upload the dataset used for training validation, but data is taken from https://www.kaggle.com/tawsifurrahman/covid19-radiography-database I want thanks the creator of this dataset. Small changes that you have to do in the dataset after you download and unzip it. Change the name of the folder in the dataset to what is shown below in the list. Left side is original names and right side is changed names.
 </p>
-- COVID -> covid.
-- Normal -> normal.
-- Lung_Opacity -> lung_opacity. 
-- Viral Pneumonia -> viral_pneumonia. 
+ 1. COVID -> covid. <br/>
+ 2. Normal -> normal. <br/>
+ 3. Lung_Opacity -> lung_opacity. <br /> 
+ 4. Viral Pneumonia -> viral_pneumonia. 
 
 <h3> Preprocessing & Architecture. </h3>
  <p>
