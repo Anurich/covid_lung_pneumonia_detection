@@ -25,7 +25,7 @@ I didn't upload the dataset used for training validation, but data is taken from
 </p>
 <h3> Precision & Recall (Train vs Validation) </h3>
     <figure>
-      <img style="width:400px" src="plots/train_precision">
-      <img style="width:600px" src="plotsval_precision">
+      <img src="plots/recall(train_validation).jpg">
+      <img src="plots/precision(train_validation).jpg">
       <figcaption>Precision (Train vs Validation).</figcaption>
     </figure>
