@@ -27,5 +27,7 @@ I didn't upload the dataset used for training validation, but data is taken from
     <figure>
       <img src="plots/recall(train_validation).jpg">
       <img src="plots/precision(train_validation).jpg">
-      <figcaption>Precision (Train vs Validation).</figcaption>
     </figure>
+
+<h3> Important Note. </h3>
+<p> I am just the beginner and learning about this fascinating field, Please feel free to point out my mistake as well as feel free to contribute. Hope to upload more interesting project in future caio.</p>
