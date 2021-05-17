@@ -19,7 +19,7 @@ I didn't upload the dataset used for training validation, but data is taken from
 
 <h3> Preprocessing & Architecture. </h3>
  <p>
- When you visualize the dataset it seems pretty imabalanced. To balance the dataset weighted sampling method. I used data argumentation techniques by flipping and  rotating the images. The architecture used is pretty simple, i used pretrained VGG16 network and keep its layer freeze, then append my dense layer for prediction.
+ When you visualize the dataset it seems pretty imabalanced. To balance the dataset weighted sampling method, data argumentation techniques by flipping and  rotating the images is used. The architecture used is pretty simple, i used pretrained VGG16 network and freeze all its layer, then append my dense layer for prediction.
 </p>
 <h3> Precision & Recall (Train vs Validation) </h3>
     <figure>
